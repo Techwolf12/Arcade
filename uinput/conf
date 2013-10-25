@@ -1,0 +1,2 @@
+export KEYB="/dev/input/by-id/usb-Cypress_I-PAC_Arcade_Control_Interface-event-kbd"
+export CONFPATH="/home/techinc/uinput-mapper/configs"

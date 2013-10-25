@@ -1,0 +1,4 @@
+. $ARCADEROOT/uinput/conf
+
+killall input-read
+input-read -G $KEYB -D | input-create "$CONFPATH/keymouse.py" &

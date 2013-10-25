@@ -1,0 +1,4 @@
+#!/bin/bash
+xrandr -s 1024x768
+/usr/local/bin/wahcade
+xrandr -s 1280x1024

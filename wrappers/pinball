@@ -1,0 +1,8 @@
+# just in case
+. $ARCADEROOT/uinput/kill
+
+. $ARCADEROOT/uinput/jnb
+
+dosbox -exit ~/dosgames/pinball/PINBALL.EXE
+
+. $ARCADEROOT/uinput/kill
